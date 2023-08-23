@@ -2,7 +2,6 @@
 打杂工的业余瞎整，不担保无bug
 
 [fxliang/weasel](https://github.com/fxliang/weasel), fork 自[rime/weasel](https://github.com/rime/weasel)，做了一些尝试性的修改，实现了一些特性，部分commit已pr合入。
-需要说明的是，野狼毫并非我打包发布。
 
 [fxliang/weasel_config](https://github.com/fxliang/weasel_config)是我自用的小狼毫配置文件脱敏后的部分，一些新特性的参数会在上面有一些demo，可供参考
 
