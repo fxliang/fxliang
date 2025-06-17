@@ -9,9 +9,6 @@
 
 [fxliang/colorizer_mod](https://github.com/fxliang/colorizer_mod)是我修改的一个在用的vim插件，增加了预览小狼毫的abgr序列的颜色，默认let g:colorizer_color_format = 'abgr'，如果要使用其他序列的颜色，可以对应修改argb,rgba
 
-[fxliang/vscode-ext-color-highlight](https://github.com/fxliang/vscode-ext-color-highlight)是我魔改的一个vscode插件，在原有的基础上加上了显示小狼毫配色预览的功能。
-
-[fxliang/rppi_get](https://github.com/fxliang/rppi_get)是一个利用[rppi](https://github.com/rime/rppi)获取方案的命令行小工具
 
 
 如果觉得我瞎整的项目s还不错，可以请我喝冰阔落🥤 :)
