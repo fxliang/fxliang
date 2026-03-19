@@ -9,6 +9,7 @@
 
 [fxliang/colorizer_mod](https://github.com/fxliang/colorizer_mod)是我修改的一个在用的vim插件，增加了预览小狼毫的abgr序列的颜色，默认let g:colorizer_color_format = 'abgr'，如果要使用其他序列的颜色，可以对应修改argb,rgba
 
+[fxliang/fcitx5-android](https://github.com/fxliang/fcitx5-android) 是我用AI vibe魔改的fcitx5-android, 增加了相当多有竞争力的特性和兼容性
 
 
 如果觉得我瞎整的项目s还不错，可以请我喝冰阔落🥤 :)
