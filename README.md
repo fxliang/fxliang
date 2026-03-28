@@ -14,16 +14,9 @@
 
 如果觉得我瞎整的项目s还不错，可以请我喝冰阔落🥤 :)
 
+微信赞赏码
 
-<table>
-  <tr>
-    <th>支付宝</th>
-    <th>微信支付</th>
-  </tr>
-  <tr>
-
-  </tr>
-</table>
+<img width="256" height="256" src="https://github.com/user-attachments/assets/56a5f776-afda-46fa-94a2-152bef3762a0" />
 
 <!--
 **fxliang/fxliang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
